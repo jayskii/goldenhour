@@ -1,0 +1,32 @@
+
+*** These modified files were found in JOE when it aborted on Fri Oct 22 14:07:21 2021
+*** JOE was aborted because the terminal closed
+
+*** File '/var/www/html/goldenhour/.git/MERGE_MSG'
+Merge branch 'master' of https://github.com/edison8301/goldenhour-laravel
+
+# Please enter a commit message to explain why this merge is necessary,
+# especially if it merges an updated upstream into a topic branch.
+#
+# Lines starting with '#' will be ignored, and an empty message aborts
+# the commit.
+git push
+
+*** File '(Unnamed)'
+/var/www/html/hamida/.git/MERGE_MSG
+/var/www/html/hamida/.git/MERGE_MSG
+/var/www/html/hamida/.git/MERGE_MSG
+/var/www/html/hamida/.git/MERGE_MSG
+/var/www/html/hamida/.git/MERGE_MSG
+/var/www/html/hamida/.git/MERGE_MSG
+/var/www/html/hamida/.git/MERGE_MSG
+/var/www/html/hamida/.git/MERGE_MSG
+/var/www/html/hamida/.git/MERGE_MSG
+/var/www/html/hamida/.git/MERGE_MSG
+/var/www/html/goldenhour/.git/MERGE_MSG
+
+*** File '* Startup Log *'
+Processing '/etc/joe/editorrc'...
+Processing '/etc/joe/ftyperc'...
+Finished processing /etc/joe/ftyperc
+Finished processing /etc/joe/editorrc
